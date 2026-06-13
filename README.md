@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.png" alt="Outpost Dark Theme logo" width="128">
+  <img src="devrdtab.theme-1.0.0/icon.png" alt="Outpost Dark Theme logo" width="128">
 </p>
 
 <h1 align="center">Outpost Dark Theme</h1>
@@ -8,9 +8,9 @@ A dark Visual Studio Code theme with muted contrast, warm rust accents, and a qu
 
 ## Preview
 
-![Outpost Dark Theme preview](images/preview.png)
+![Outpost Dark Theme preview](devrdtab.theme-1.0.0/images/preview.png)
 
-![Outpost Dark Theme secondary preview](images/preview2.png)
+![Outpost Dark Theme secondary preview](devrdtab.theme-1.0.0/images/preview2.png)
 
 ## Installation
 
